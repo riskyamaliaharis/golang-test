@@ -34,6 +34,10 @@ MySQL
 4. localhost:8084/api/finance/productiveinvoice (GET & POST)
 5. localhost:8084/api/finance/reksadana (GET & POST)
 
+## ADDITIONAL INFORMATION
+
+[Solution of Simple Logic Test](https://replit.com/join/kbmnvykbpr-riskyamaliahari)
+
 ## License
 
 © [Risky Amalia Haris](https://github.com/riskyamaliaharis)<br>
